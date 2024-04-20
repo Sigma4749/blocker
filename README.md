@@ -8,7 +8,7 @@ If $\displaystyle F=(V,E)$ is a clutter, then the blocker of $F$, denoted by $\d
 # How to use the code?
 This code calculates the blocker of a given clutter.  You only need to write the ground set and the collection of sets in the lines 30 and 31.
 
-'''python
+"""
 conjunto_base = "123456789ABCD"
 clutter = ["1238", "1459", "246A", "789A", "167B", "35AB", "257C", "369C", "48BC", "347D", "568D", "29BD", "1ACD"] 
-'''
+"""
