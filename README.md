@@ -1,2 +1,4 @@
-# blocker
-Implementations to compute the blocker clutter of a given clutter
+# Blocker
+## Some implementations to compute the blocker of a given Sperner family.
+
+If $C = ( V , E )$ is a clutter,
