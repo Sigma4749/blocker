@@ -6,7 +6,7 @@ A clutter or Sperner Family is a hypergraph $\displaystyle (V,E)$ with the added
 If $\displaystyle F=(V,E)$ is a clutter, then the blocker of $F$, denoted by $\displaystyle b(F)$, is the clutter with vertex set $V$ and edge set consisting of all minimal sets $\displaystyle B\subseteq V$ so that $B \cap A \neq \emptyset$ for every $\displaystyle A\in E$. It can be shown that $\displaystyle b(b(F))=F$ (Edmonds & Fulkerson 1970), so blockers give us a type of duality.
 
 ## How to use the code?
-This code calculates the blocker of a given clutter.  You only need to write the ground set and the collection of sets in the lines 30 and 31.
+This code calculates the blocker of a given clutter.  You only need to write the ground set and the collection of sets in the lines 30 and 31 of the python file "Blocker_clutter-bitwise_operations.py".
 
 ```python
 conjunto_base = "123456789ABCD"
