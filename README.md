@@ -1,5 +1,5 @@
-# Blocker
-## Some implementations to compute the blocker of a Sperner family.
+# Blocker clutter
+## A Python code to compute the blocker of a clutter
 
 A clutter or Sperner Family is a hypergraph $\displaystyle (V,E)$ with the added property that $\displaystyle A\not \subseteq B$ whenever $\displaystyle A,B\in E$ and $\displaystyle A\neq B$ (i.e. no edge properly contains another).
 
